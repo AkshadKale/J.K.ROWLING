@@ -48,7 +48,7 @@ body {
     cursor: pointer;
     background-color: aqua;
     width: 100%;
-    text-align: hori
+    
 }
 
 .link {
@@ -60,9 +60,18 @@ body {
 }
 
 .line {
-    height: 6px;
+    height:7px;
    padding: inherit;
     width: 70px;
     margin: 8px auto;
+    display: inline;
+    padding-right: 35px ;
+    padding-left:23px;
+}
+#contact iframe{
+    width:100%;
+    
+}
+#contactunderscore1 h3{
     display: inline;
 }
